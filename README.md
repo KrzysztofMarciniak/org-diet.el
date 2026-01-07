@@ -28,8 +28,6 @@ C-c c d
 | Time   | Food | Calories |
 |--------|------|----------|
 |        |      |          |
-
-Total calories: %(vsum(@I$3..@II$3))
 ```
 
 * `:prepend t` inserts at the first empty row.
