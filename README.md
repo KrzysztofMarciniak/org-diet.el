@@ -3,6 +3,7 @@
 A really simple diet tracking made with emacs lisp and capture templates.
 
 1. Git clone 
+
 ```sh
 cd ~ ; git clone https://github.com/KrzysztofMarciniak/org-diet.el ; nano ~/.config/doom/nano config.el
 ```
@@ -14,6 +15,7 @@ cd ~ ; git clone https://github.com/KrzysztofMarciniak/org-diet.el ; nano ~/.con
 (require 'org-diet)
 ```
 Remember to reload/restart Emacs.
+
 3. Invoke the capture with:
 
 ```
